@@ -2,6 +2,8 @@ This is the output of the log file:
 ![image](https://github.com/alberto-d1as/empty_content/assets/82539821/d9cceeea-d95b-4ea9-b596-c63c9e1288e0)
 
 The rotate is organizing it this way:
+
+
 ![image](https://github.com/alberto-d1as/empty_content/assets/82539821/181183d9-2456-4508-94fa-9da595158b04)
 
 This script was created to check the content of .CSV files that were occasionally empty and could not be sent in this way.
